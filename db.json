@@ -1,14 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "employeeList": [
+        {
+            "name": "Gretchen Rodriquez",
+            "email": "gretchenrodriquez@trasola.com",
+            "phone": "6204732096"
+        },
+        {
+            "name": "Sharon Harris",
+            "email": "sharonharris@trasola.com",
+            "phone": "2184582386"
+        },
+        {
+            "name": "Serrano Haynes",
+            "email": "serranohaynes@trasola.com",
+            "phone": "1434162816"
+        },
+        {
+            "name": "Wagner Thornton",
+            "email": "wagnerthornton@trasola.com",
+            "phone": "5494622467"
+        },
+        {
+            "name": "Mooney Dawson",
+            "email": "mooneydawson@trasola.com",
+            "phone": "3894433413"
+        }
+    ]
 }
